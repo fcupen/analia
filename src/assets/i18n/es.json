@@ -1,0 +1,8 @@
+{
+  "login": {
+    "placeholders": {
+      "email": "usuario o email",
+      "HELLO": "hola {{name}}, buenos días"
+    }
+  }
+}
